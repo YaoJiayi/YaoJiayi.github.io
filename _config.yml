@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jiayi Yao's Homepage"
 title_separator          : "-"
 name                     : &name "Jiayi Yao"
 description              : &description "First-Year PHD student @ UChicago"
@@ -22,23 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Jiayi Yao" 
+  bio              : "First-year PHD student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Chicago"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jiayi3@uchicago.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=Si1vLbYAAAAJ&hl=en"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
